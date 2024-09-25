@@ -1,0 +1,5 @@
+header:before,
+main:before,
+footer:before {
+  content: none !important;
+}
